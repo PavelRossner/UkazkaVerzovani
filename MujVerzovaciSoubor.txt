@@ -1,1 +1,1 @@
-C# je nejlepsi jazyk.
+PHP je nejlepsi jazyk.
